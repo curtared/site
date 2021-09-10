@@ -67,7 +67,7 @@ preloader = "images/preloader.gif"
 URL = "https://facebook.com/curtared"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://instagram.com/curtared"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
