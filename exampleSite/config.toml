@@ -1,20 +1,16 @@
-baseURL = "https://curta.red"
+baseURL = "https://curtared.netlify.app"
 languageCode = "pt-br"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Curta.RED"
 [[menu.main]]
+URL = "about"
+name = "Sobre"
+weight = 1
+[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contato"
 weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 [params]
 address = "Rua Lindolfo de Azevedo, 871 - Sala 01 - Jd. América - BH - MG"
 author = "Curta.RED"
