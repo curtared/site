@@ -8,10 +8,6 @@ URL = "about"
 name = "Sobre"
 weight = 1
 [[menu.main]]
-URL = "portfolio"
-name = "Portfólio"
-weight = 3
-[[menu.main]]
 URL = "contact"
 name = "Contato"
 weight = 4
