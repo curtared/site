@@ -70,8 +70,5 @@ icon = "ti-facebook"
 URL = "https://instagram.com/curtared"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/curtared"
 icon = "ti-twitter-alt"
