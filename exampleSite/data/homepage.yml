@@ -14,19 +14,19 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: A POPULARIDADE DOS PRINCIPAIS MENSAGEIROS
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Whatsapp
+    progress: 99%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Instagram
+    progress: 82%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
+  - title: Facebook Messenger
+    progress: 76%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Telegram
+    progress: 53%
     color: "#ffbcaa"
 experience:
   enable: false
