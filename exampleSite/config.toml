@@ -20,17 +20,17 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Rua Lindolfo de Azevedo, 871 - Sala 01 - Jd. América - BH - MG"
+author = "Curta.RED"
 baidu_analytics_id = ""
 baidu_site_verification = ""
 copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+description = "Tecendo redes..."
+email = "curta@curta.red"
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = "+55 31 9 9810-9679"
 theme_color = "#41228e"
 [params.contact]
 enable = true
