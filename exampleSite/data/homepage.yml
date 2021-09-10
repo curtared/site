@@ -62,23 +62,23 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Organizando o movimento
   item:
-  - title: UI Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Análise de Dados
+    icon: ti-eye
+    content: A análise de dados é fator importante para qualquer estratégia de comunicação
+      em redes digitais.
     highlighted: true
-  - title: Interaction Design
+  - title: Consultoria de Comunicação
+    icon: ti-vector
+    content: Oferecemos consultoria de comunicação digital para que você possa tirar
+      o máximo de sua estratégia de comunicação nas redes.
+    highlighted: true
+  - title: Comunicação Digital
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
+    content: A Internet é um ecossistema que para a informação fluir é necessário
+      equilíbrio entre uma rede orgânica e estratégias bem elaboradas.
+    highlighted: true
 portfolio:
   enable: false
   title: Portfolio
